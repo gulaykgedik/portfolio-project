@@ -32,4 +32,5 @@ I built it using HTML, CSS, and JavaScript, enhancing it with animations and a d
 <br/>
 
 
+![portfolio](https://github.com/user-attachments/assets/e2b1891a-945b-4297-a55b-4f93bb062abf)
 
