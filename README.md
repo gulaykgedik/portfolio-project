@@ -9,13 +9,17 @@ I built it using HTML, CSS, and JavaScript, enhancing it with animations and a d
 <br/>
 
 ✔️ Modern & Responsive Design 🌍📱
+
 ✔️ Dark/Light Mode Toggle 🌙☀️
+
 ✔️ Smooth Animations & Transitions 🎭
+
 ✔️ User-Friendly Navigation 🔥
+
 
 ## 🔥 Live Demo
 <br/>
-👉 
+👉 https://vercel.com/gulay-kgedik/portfolio
 
 ## 🛠️ Tech Stack
 <br/>
